@@ -8,7 +8,7 @@ public class SpringDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDemoApplication.class, args);
-		System.out.println("running.....");
+		System.out.println("running spring boot 3.0 project");
 	}
 
 }
